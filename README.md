@@ -3,7 +3,7 @@
 Este repositorio contiene tres ejercicios de estructuras de datos inspirados en el universo de Dragon Ball, aplicando pilas y colas en Java.
 
 ## Estructura del proyecto
-
+```
 
 ProyectoDragonBall/
 │
@@ -21,7 +21,7 @@ ProyectoDragonBall/
     ├── Paciente.java
     ├── ColaPrioridad.java
     └── HospitalSanMungo.java
-
+```
 
 ---
 
